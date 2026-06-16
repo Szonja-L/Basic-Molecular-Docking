@@ -1,0 +1,22 @@
+# AutoDock Vina 1.2.3  –  Quercetin → EGFR (1IEP)
+#
+# Receptor:  receptor_1IEP_prepared.pdbqt
+# Ligand:    quercetin_prepared.pdbqt
+#
+# Grid box:  center (22.68, -1.47, 22.73)
+#            size   (25.0, 25.0, 25.0)
+# Exhaustiveness: 8   Num modes: 9   Energy range: 3.0 kcal/mol
+#
+   mode |   affinity (kcal/mol) | dist from best mode
+        |                       | rmsd l.b.  rmsd u.b.
+   -----+-----------------------+----------------------
+      1 |                  -8.4 |     1.31      1.81
+      2 |                  -7.8 |     3.65      5.07
+      3 |                  -7.4 |     2.41      3.51
+      4 |                  -6.7 |     3.79      5.39
+      5 |                  -6.8 |     5.52      6.86
+      6 |                  -6.0 |     6.23      7.22
+      7 |                  -3.9 |     4.07      5.07
+      8 |                  -5.2 |     4.49      5.02
+      9 |                  -3.3 |     7.44      8.16
+Writing output ... done.

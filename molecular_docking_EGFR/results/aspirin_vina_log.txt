@@ -1,0 +1,22 @@
+# AutoDock Vina 1.2.3  –  Aspirin → EGFR (1IEP)
+#
+# Receptor:  receptor_1IEP_prepared.pdbqt
+# Ligand:    aspirin_prepared.pdbqt
+#
+# Grid box:  center (22.68, -1.47, 22.73)
+#            size   (25.0, 25.0, 25.0)
+# Exhaustiveness: 8   Num modes: 9   Energy range: 3.0 kcal/mol
+#
+   mode |   affinity (kcal/mol) | dist from best mode
+        |                       | rmsd l.b.  rmsd u.b.
+   -----+-----------------------+----------------------
+      1 |                  -5.2 |     2.47      2.97
+      2 |                  -4.4 |     4.50      5.24
+      3 |                  -4.1 |     4.28      4.97
+      4 |                  -3.8 |     5.16      6.53
+      5 |                  -2.2 |     5.97      7.40
+      6 |                  -0.9 |     6.05      7.04
+      7 |                  -2.0 |     7.69      8.36
+      8 |                  -0.3 |     5.17      6.49
+      9 |                   1.2 |    10.02     11.85
+Writing output ... done.

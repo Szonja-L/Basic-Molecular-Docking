@@ -1,0 +1,22 @@
+# AutoDock Vina 1.2.3  –  Afatinib → EGFR (1IEP)
+#
+# Receptor:  receptor_1IEP_prepared.pdbqt
+# Ligand:    afatinib_prepared.pdbqt
+#
+# Grid box:  center (22.68, -1.47, 22.73)
+#            size   (25.0, 25.0, 25.0)
+# Exhaustiveness: 8   Num modes: 9   Energy range: 3.0 kcal/mol
+#
+   mode |   affinity (kcal/mol) | dist from best mode
+        |                       | rmsd l.b.  rmsd u.b.
+   -----+-----------------------+----------------------
+      1 |                 -10.7 |     0.91      1.41
+      2 |                  -9.9 |     2.39      3.39
+      3 |                  -9.4 |     4.06      5.24
+      4 |                  -9.3 |     5.59      6.23
+      5 |                  -8.6 |     3.26      4.86
+      6 |                  -6.6 |     8.06      9.93
+      7 |                  -8.0 |     4.13      5.58
+      8 |                  -7.2 |     9.95     11.06
+      9 |                  -5.4 |     7.49      9.07
+Writing output ... done.

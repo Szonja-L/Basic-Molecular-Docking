@@ -1,0 +1,22 @@
+# AutoDock Vina 1.2.3  –  Lapatinib → EGFR (1IEP)
+#
+# Receptor:  receptor_1IEP_prepared.pdbqt
+# Ligand:    lapatinib_prepared.pdbqt
+#
+# Grid box:  center (22.68, -1.47, 22.73)
+#            size   (25.0, 25.0, 25.0)
+# Exhaustiveness: 8   Num modes: 9   Energy range: 3.0 kcal/mol
+#
+   mode |   affinity (kcal/mol) | dist from best mode
+        |                       | rmsd l.b.  rmsd u.b.
+   -----+-----------------------+----------------------
+      1 |                 -11.3 |     1.03      1.53
+      2 |                 -10.4 |     2.21      3.54
+      3 |                  -9.7 |     3.23      4.85
+      4 |                  -9.1 |     2.34      4.19
+      5 |                  -8.5 |     4.51      5.57
+      6 |                  -8.7 |     2.93      3.96
+      7 |                  -7.0 |     4.92      6.79
+      8 |                  -7.9 |     9.44      9.99
+      9 |                  -6.0 |    11.12     11.68
+Writing output ... done.
