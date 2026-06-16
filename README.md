@@ -1,5 +1,5 @@
 # Molecular Docking: EGFR Kinase × Small Molecule Inhibitors
-## Portfolio Project #4 — Computer-Aided Drug Discovery (CADD)
+## Computer-Aided Drug Discovery (CADD)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-1.2.3-green.svg)](https://vina.scripps.edu)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project uses **AutoDock Vina** to computationally simulate how eight small molecules bind to the **EGFR tyrosine kinase domain** — a key oncology drug target overexpressed in breast cancer and NSCLC. It demonstrates core CADD skills: receptor preparation, grid setup, docking score interpretation, and drug-likeness profiling.
+This project uses **AutoDock Vina** to computationally simulate how eight small molecules bind to the **EGFR tyrosine kinase domain**, a key oncology drug target overexpressed in breast cancer and NSCLC. It demonstrates core CADD skills: receptor preparation, grid setup, docking score interpretation, and drug-likeness profiling.
 
 **Why EGFR?** This project directly follows [Portfolio Project #3 (breast cancer DGE analysis)](../breast_cancer_DGE/), where *ERBB2* (HER2) was identified as significantly upregulated in tumour tissue (log2FC = 3.14, FDR < 0.001). The natural next question: *which drugs best inhibit this pathway?*
 
@@ -226,9 +226,9 @@ AutoDock Vina requires compiled binaries and PDBQT-format files that cannot run 
 
 ## Author
 
-**Szonja Wirth** — Bioinformatics Portfolio  
-*Part of a series: [DGE Analysis](../breast_cancer_DGE/) → [Molecular Docking](.) → ...*
+**Szonja Lippert** — Bioinformatics Portfolio  
+
 
 ---
 
-*Portfolio project demonstrating CADD competency for bioinformatics roles.*
+
